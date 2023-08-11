@@ -1,0 +1,6 @@
+---
+- name: Deploy consul
+  include_tasks: deploy_consul.yml
+  
+
+
